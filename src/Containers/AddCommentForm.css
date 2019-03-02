@@ -1,0 +1,11 @@
+.flex-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.form-control:focus {
+    border-color: #ff9400;
+    box-shadow:0 0 0 0.2rem rgba(255, 148, 0,.25);
+}

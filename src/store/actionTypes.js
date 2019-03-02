@@ -1,0 +1,9 @@
+export const ADD_ERROR = "ADD_ERROR";
+export const LOAD_ONE_POST = "LOAD_ONE_POST";
+export const REMOVE_ERROR = "REMOVE_ERROR";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const LOAD_GAME_POSTS = "LOAD_GAME_POSTS";
+export const DELETE_GAME_POSTS = "DELETE_GAME_POSTS";
+export const LOAD_COMMENTS = "LOAD_COMMENTS";
+export const DELETE_COMMENTS = "DELETE_COMMENTS";
+export const LOAD_ONE_COMMENT = "LOAD_ONE_COMMENT"
